@@ -179,7 +179,7 @@ This learning journey was guided by:
 
 ---
 
-**Happy Coding! 🚀**
+**Happy Coding! **
 
 *Last Updated: June 2026*
 *Total Problems Solved: 100+*
