@@ -2,6 +2,14 @@
 
 A comprehensive collection of **100+ DSA problems and implementations** covering all major topics. This repository documents my complete learning journey from basics to advanced algorithms, with clean, well-commented solutions in C++.
 
+## 🌐 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/jayanttomar/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Jayant_Tomar)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jayanttomar)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/jayanttomar596)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayanttomar/)
+
 ## Topics Covered
 
 ### Fundamentals
